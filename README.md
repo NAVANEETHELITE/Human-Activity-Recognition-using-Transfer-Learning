@@ -141,7 +141,6 @@ After doing 3rd and 4rd step, Make a zip file of complete data.
 <h1>Output</h1>
 <img src="images/output.gif" alt="one" width="800" height="450">
 
-<h1>Thank You!</h1>
 
 
 
